@@ -134,7 +134,8 @@
   border-radius: 50%; }
 
 #design {
-  background-color: #232831; }
+  background-color: #232831;
+  color: red; }
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
